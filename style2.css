@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+body{ 
+    background-color:rgb(13, 25, 52);
+    font-family: "Poppins",sans-serif;
+   
+}
+h1{
+    color: white;
+}
+header{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    /* height: 500px; */
+    width: 700px;
+}
